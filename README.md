@@ -25,5 +25,5 @@ Assurez-vous d’avoir installé :
 
 ### 2️⃣ **Cloner le projet**
 ```sh
-git clone https://github.com/ton-utilisateur/escape-game.git
-cd escape-game
+https://github.com/mballuais/Partiel-PHP-A.git
+
